@@ -1,5 +1,6 @@
+![](https://img.shields.io/badge/Love-Processing-blueviolet)
 # OutRun
-Simple outrun game created in Processing
+Simple outrun game created in Processing (you need [Processing](https://processing.org/) to run this little game)
 
 Use A (or Left) and D (or Right) to move
 
